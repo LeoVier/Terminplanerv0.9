@@ -1,0 +1,32 @@
+ion-checkbox{
+    display: flex;
+    justify-content: start;
+    --checkbox-background-checked: green;
+    --size: 2.5vh;
+    font-size: 2.5vh;
+}
+.trash{
+    display: flex;
+    justify-content: end;
+    color: red;
+    height: 3vh;
+}
+ion-card{
+    margin-top: 5vh;
+}
+ion-card-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 1vh;
+
+}
+ion-text{
+    font-size: 1.75vh;
+    font-weight: bold;
+    margin-left: 0.5vh;
+}
+div{
+    display: flex;
+    align-items: center;
+}
