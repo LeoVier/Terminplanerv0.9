@@ -1,0 +1,8 @@
+{
+  "name": "Terminplaner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "3edb1872"
+}
